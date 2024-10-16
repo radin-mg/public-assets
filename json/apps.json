@@ -24,10 +24,11 @@
     },
     "ShowInMenu": true
   },
-  {
+{
     "name": "InvisibleMan-XRay",
+    "urlScheme": "invxray://subscription/",
     "image": "https://avatars.githubusercontent.com/u/46280804?v=4",
-    "link": "invxray://subscription/",
+    "link": "invxray://subscription/?url={url}",
     "os": ["Windows"],
     "downloadLinks": {
     "Windows": "https://github.com/InvisibleManVPN/InvisibleMan-XRayClient/releases/download/v2.3.2/InvisibleManXRay-x64.zip"
