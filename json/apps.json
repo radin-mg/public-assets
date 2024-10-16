@@ -71,7 +71,7 @@
     "ShowInMenu": true
   },
   {
-    "name": "Hiddify (لینک بدون فیلتر)",
+    "name": "⭐️Hiddify (لینک بدون فیلتر)",
     "urlScheme": "hiddify://import",
     "image": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw",
     "link": "hiddify://import/{url}#Sub",
