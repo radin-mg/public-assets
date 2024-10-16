@@ -3,7 +3,7 @@
     "name": "SingBox",
     "urlScheme": "sing-box://import-remote-profile",
     "image": "https://play-lh.googleusercontent.com/9hC1t0lYNRlFHt2N2NJCWYMe_M6vJh580XHdC0JeEW14AJJFZGDbgj_meooXAXHbWJ1_",
-    "link": "sing-box://import-remote-profile?url={url}#Sub",
+    "link": "sing-box://import-remote-profile{url}#Sub",
     "os": [
       "iOS",
       "Android",
@@ -20,7 +20,7 @@
     "name": "Hiddify",
     "urlScheme": "hiddify://import",
     "image": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw",
-    "link": "hiddify://import/${fullUrl}#Sub",
+    "link": "hiddify://import/{url}#Sub",
     "os": [
       "Windows",
       "Android"
@@ -35,7 +35,7 @@
     "name": "InvisibleMan-XRay",
     "urlScheme": "invxray://subscription/",
     "image": "https://avatars.githubusercontent.com/u/46280804?v=4",
-    "link": "invxray://subscription/?url={url}",
+    "link": "invxray://subscription/{url}",
     "os": [
       "Windows"
     ],
