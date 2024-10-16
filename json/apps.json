@@ -35,7 +35,18 @@
     "name": "InvisibleMan-XRay",
     "urlScheme": "invxray://subscription/",
     "image": "https://avatars.githubusercontent.com/u/46280804?v=4",
-    "link": "invxray://subscription/{url}",
+    "link": "invxray://subscription/{url}#Sub",
+    "os": [
+      "Windows"
+    ],
+    "downloadLinks": {
+      "Windows": "https://github.com/InvisibleManVPN/InvisibleMan-XRayClient/releases/download/v2.3.2/InvisibleManXRay-x64.zip"
+    },
+    "ShowInMenu": true
+  },
+  {
+    "name": "NetMod",
+    "image": "https://a.fsdn.com/allura/p/netmodhttp/icon?99c9b36557ba775b887edf3ace70a11913221a3aef9c700274ef45e088672583?&w=135",
     "os": [
       "Windows"
     ],
