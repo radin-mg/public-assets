@@ -33,8 +33,9 @@
   },
   {
     "name": "InvisibleMan-XRay",
-    "urlScheme": "invxray://subscription/{url}",
+    "urlScheme": "invxray://subscription/",
     "image": "https://avatars.githubusercontent.com/u/46280804?v=4",
+    "link": "invxray://subscription/?url=",
     "os": [
       "Windows"
     ],
