@@ -1,6 +1,6 @@
 [
   {
-    "name": "SingBox",
+    "name": "⭐️SingBox",
     "urlScheme": "sing-box://import-remote-profile",
     "image": "https://play-lh.googleusercontent.com/9hC1t0lYNRlFHt2N2NJCWYMe_M6vJh580XHdC0JeEW14AJJFZGDbgj_meooXAXHbWJ1_",
     "link": "sing-box://import-remote-profile?url={url}#Sub",
@@ -17,7 +17,7 @@
     "ShowInMenu": true
   },
   {
-    "name": "SingBox (لینک بدون فیلتر)",
+    "name": "⭐️SingBox (لینک بدون فیلتر)",
     "urlScheme": "sing-box://import-remote-profile",
     "image": "https://play-lh.googleusercontent.com/9hC1t0lYNRlFHt2N2NJCWYMe_M6vJh580XHdC0JeEW14AJJFZGDbgj_meooXAXHbWJ1_",
     "link": "sing-box://import-remote-profile?url={url}#Sub",
@@ -56,7 +56,7 @@
     "ShowInMenu": false
   },
   {
-    "name": "Hiddify",
+    "name": "⭐️Hiddify",
     "urlScheme": "hiddify://import",
     "image": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw",
     "link": "hiddify://import/{url}#Sub",
