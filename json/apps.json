@@ -22,9 +22,7 @@
     "image": "https://play-lh.googleusercontent.com/9hC1t0lYNRlFHt2N2NJCWYMe_M6vJh580XHdC0JeEW14AJJFZGDbgj_meooXAXHbWJ1_",
     "link": "sing-box://import-remote-profile?url={url}#Sub",
     "os": [
-      "iOS",
-      "Android",
-      "Linux"
+      "Android"
     ],
     "downloadLinks": {
       "Android": "https://github.com/SagerNet/sing-box/releases/download/v1.9.6/SFA-1.9.6-universal.apk"
@@ -78,7 +76,6 @@
     "image": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw",
     "link": "hiddify://import/{url}#Sub",
     "os": [
-      "Windows",
       "Android"
     ],
     "downloadLinks": {
