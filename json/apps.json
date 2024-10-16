@@ -20,7 +20,7 @@
     "name": "Hiddify",
     "urlScheme": "hiddify://import",
     "image": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw",
-    "link": "hiddify://import/${fullUrl}#Sub",
+    "link": "hiddify://import/{url}#Sub",
     "os": [
       "Windows",
       "Android"
@@ -35,7 +35,7 @@
     "name": "InvisibleMan-XRay",
     "urlScheme": "invxray://subscription/",
     "image": "https://avatars.githubusercontent.com/u/46280804?v=4",
-    "link": "invxray://subscription/?url={url}",
+    "link": "invxray://subscription/{url}",
     "os": [
       "Windows"
     ],
@@ -74,7 +74,7 @@
     "name": "V2box",
     "urlScheme": "v2box://install-sub",
     "image": "https://play-lh.googleusercontent.com/kVeisXWkT4oRMDsZbFrY7XXJvnxHJ7PnQFE71XCcCWAoeOAg5G3HJRDp4Ro3Xbc3WA",
-    "link": "v2box://install-sub?url={url}&name=SUBnew",
+    "link": "v2box://install-sub?url={url}&name=SUB",
     "os": [
       "iOS",
       "Android"
