@@ -21,7 +21,7 @@
     "os": ["Windows", "Android"],
     "downloadLinks": {
       "Windows": "https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Windows-Setup-x64.exe",
-      "Android": "https://play.google.com/store/apps/details?id=com.v2ray.ang&hl=en"
+      "Android": "https://play.google.com/store/apps/details?id=com.v2ray.ang&hl=en",
       "Android": "https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Android-universal.apk"
     },
     "ShowInMenu": true
@@ -44,7 +44,7 @@
     "link": "v2rayng://install-config?url={url}",
     "os": ["Android"],
     "downloadLinks": {
-      "Android": "https://play.google.com/store/apps/details?id=com.v2ray.ang&hl=en"
+      "Android": "https://play.google.com/store/apps/details?id=com.v2ray.ang&hl=en",
       "Android": "https://github.com/2dust/v2rayNG/releases/download/1.8.39/v2rayNG_1.8.39_universal.apk"
     },
     "ShowInMenu": true
