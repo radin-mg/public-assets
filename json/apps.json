@@ -74,36 +74,12 @@
     "name": "⭐️Hiddify (لینک بدون فیلتر)",
     "urlScheme": "hiddify://import",
     "image": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw",
-    "link": "hiddify://import/{url}#Sub",
+    "link": "hiddify://import/{url}",
     "os": [
       "Android"
     ],
     "downloadLinks": {
       "Android": "https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Android-universal.apk"
-    },
-    "ShowInMenu": false
-  },
-  {
-    "name": "InvisibleMan-XRay",
-    "urlScheme": "invxray://subscription/",
-    "image": "https://avatars.githubusercontent.com/u/46280804?v=4",
-    "link": "invxray://subscription/{url}#Sub",
-    "os": [
-      "Windows"
-    ],
-    "downloadLinks": {
-      "Windows": "https://github.com/InvisibleManVPN/InvisibleMan-XRayClient/releases/download/v2.3.2/InvisibleManXRay-x64.zip"
-    },
-    "ShowInMenu": true
-  },
-  {
-    "name": "NetMod",
-    "image": "https://a.fsdn.com/allura/p/netmodhttp/icon?99c9b36557ba775b887edf3ace70a11913221a3aef9c700274ef45e088672583?&w=135",
-    "os": [
-      "Windows"
-    ],
-    "downloadLinks": {
-      "Windows": "https://github.com/InvisibleManVPN/InvisibleMan-XRayClient/releases/download/v2.3.2/InvisibleManXRay-x64.zip"
     },
     "ShowInMenu": false
   },
@@ -123,12 +99,25 @@
   {
     "name": "Streisand (سرویس ایران)",
     "urlScheme": "streisand://import/",
-    "image": "https://github.com/radin-mg/public-assets/blob/main/icons/Streisand-ir.jpg",
+    "image": "https://raw.githubusercontent.com/radin-mg/public-assets/refs/heads/main/icons/Streisand-ir.jpg",
     "link": "streisand://aW1wb3J0L3JvdXRlOi8vWW5Cc2FYTjBNRERWQVFJREJBVUdEaU1rSlZWeWRXeGxjMTFrYjIxaGFXNU5ZWFJqYUdWeVZHNWhiV1ZlWkc5dFlXbHVVM1J5WVhSbFozbFVkWFZwWktJSEZ0VUlDUW9MREEwT0R4SVZXMjkxZEdKdmRXNWtWR0ZuWFdSdmJXRnBiazFoZEdOb1pYSldaRzl0WVdsdVVtbHdWMjVsZEhkdmNtdFdaR2x5WldOMFZtaDVZbkpwWktJUUVWOFFFMmRsYjNOcGRHVTZZMkYwWldkdmNua3RhWEpmRUE5eVpXZGxlSEE2TGlwY1hDNXBjaVNpRXhSWVoyVnZhWEE2YVhKZFoyVnZhWEE2Y0hKcGRtRjBaVjhRUkZSRFVDd2dWVVJRTENCSVZGUlFMQ0JJVkZSUVV5d2dVMU5JTENCVFRWUlFMQ0JUVGsxUUxDQk9WRkFzSUVaVVVDd2dVRTlRTXl3Z1NVMUJVQ3dnVkdWc2JtVjAxQmNZQ2d3WkRob1ZXMjkxZEdKdmRXNWtWR0ZuWFdSdmJXRnBiazFoZEdOb1pYSlZZbXh2WTJ1b0d4d2RIaDhnSVNKZkVCaG5aVzl6YVhSbE9tTmhkR1ZuYjNKNUxXRmtjeTFoYkd4ZkVCUm5aVzl6YVhSbE9tTmhkR1ZuYjNKNUxXRmtjMThRRVdkbGIzTnBkR1U2ZVdGb2IyOHRZV1J6WHhBVFoyVnZjMmwwWlRwemNHOTBhV1o1TFdGa2MxOFFFbWRsYjNOcGRHVTZaMjl2WjJ4bExXRmtjMThRRVdkbGIzTnBkR1U2WVhCd2JHVXRZV1J6WHhBU1oyVnZjMmwwWlRwaGJXRjZiMjR0WVdSelh4QVJaMlZ2YzJsMFpUcGhaRzlpWlMxaFpITnVBRWtBVWdBdEFFUUFhUUJ5QUdVQVl3QjBBQ0RZUE4zdTJEemQ5MXhKVUVsbVRtOXVUV0YwWTJoZkVDUTNNamt5T1RCRlJDMUdSVFpCTFRReE9VVXRPVE15TmkxRE1rVkJOREl3UmpWQk0wTUFDQUFUQUJrQUp3QXNBRHNBUUFCREFFNEFXZ0JvQUc4QWNnQjZBSUVBaUFDTEFLRUFzd0MyQUw4QXpRRVVBUjBCS1FFM0FUMEJSZ0ZoQVhnQmpBR2lBYmNCeXdIZ0FmUUNFUUllQUFBQUFBQUFBZ0VBQUFBQUFBQUFKZ0FBQUFBQUFBQUFBQUFBQUFBQUFrVT0=",
     "os": [
     ],
     "downloadLinks": {
       "iOS": "https://apps.apple.com/us/app/streisand/id6450534064"
+    },
+    "ShowInMenu": true
+  },
+  {
+    "name": "FoXray",
+    "urlScheme": "foxray://import/",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/7d/a5/157da51a-6c29-b81d-bc9b-136e4266bc72/AppIcon-0-0-85-220-0-5-0-2x.png/246x0w.webp",
+    "link": "foxray://import/{url}",
+    "os": [
+      "iOS"
+    ],
+    "downloadLinks": {
+      "iOS": "https://apps.apple.com/us/app/foxray/id6448898396"
     },
     "ShowInMenu": true
   },
@@ -157,7 +146,7 @@
     "downloadLinks": {
       "Windows": "https://github.com/2dust/v2rayN/releases/download/6.55/v2rayN-With-Core.zip"
     },
-    "ShowInMenu": false
+    "ShowInMenu": true
   },
   {
     "name": "Shadowrocket",
@@ -168,7 +157,31 @@
     "downloadLinks": {
       "iOS": "https://apps.apple.com/us/app/shadowrocket/id932747118"
     },
-    "ShowInMenu": false
+    "ShowInMenu": true
+  },
+  {
+    "name": "InvisibleMan-XRay",
+    "urlScheme": "invxray://subscription/",
+    "image": "https://avatars.githubusercontent.com/u/46280804?v=4",
+    "link": "invxray://subscription/{url}#Sub",
+    "os": [
+      "Windows"
+    ],
+    "downloadLinks": {
+      "Windows": "https://github.com/InvisibleManVPN/InvisibleMan-XRayClient/releases/download/v2.3.2/InvisibleManXRay-x64.zip"
+    },
+    "ShowInMenu": true
+  },
+  {
+    "name": "NetMod",
+    "image": "https://a.fsdn.com/allura/p/netmodhttp/icon?99c9b36557ba775b887edf3ace70a11913221a3aef9c700274ef45e088672583?&w=135",
+    "os": [
+      "Windows"
+    ],
+    "downloadLinks": {
+      "Windows": "https://github.com/InvisibleManVPN/InvisibleMan-XRayClient/releases/download/v2.3.2/InvisibleManXRay-x64.zip"
+    },
+    "ShowInMenu": true
   },
   {
     "name": "Nekoray",
