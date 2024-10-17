@@ -124,7 +124,7 @@
     "name": "V2box",
     "urlScheme": "v2box://install-sub",
     "image": "https://play-lh.googleusercontent.com/kVeisXWkT4oRMDsZbFrY7XXJvnxHJ7PnQFE71XCcCWAoeOAg5G3HJRDp4Ro3Xbc3WA",
-    "link": "v2box://install-sub?url={url}&name=SUB",
+    "link": "v2box://install-sub?url={url}",
     "os": [
       "iOS",
       "Android"
