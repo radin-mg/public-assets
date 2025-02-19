@@ -16,7 +16,7 @@
           },
           {
             "name": "Hiddify",
-            "price": "-1",
+            "price": "0",
             "logo": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw",
             "description": "A client that provides a platform for routing traffic securely.",
             "faDescription": "Hiddify یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
@@ -25,7 +25,7 @@
           },
           {
             "name": "Streisand",
-            "price": "-1",
+            "price": "0",
             "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/streisand.jpg",
             "description": "Streisand sets up a new server running a wide variety of anti-censorship software.",
             "faDescription": "استرایزند یک سرور جدید با نرم‌افزارهای متنوع ضد سانسور راه‌اندازی می‌کند.",
@@ -115,7 +115,7 @@
         "apps": [
                   {
             "name": "SingBox",
-            "price": "-1",
+            "price": "0",
             "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/singbox.png",
             "description": "A client that provides a platform for routing traffic securely.",
             "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
@@ -141,7 +141,7 @@
           },
           {
             "name": "Hiddify",
-            "price": "-1",
+            "price": "0",
             "logo": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw",
             "description": "A client that provides a platform for routing traffic securely.",
             "faDescription": "Hiddify یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
@@ -150,7 +150,7 @@
           },
           {
             "name": "V2rayNG",
-            "price": "-1",
+            "price": "0",
             "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayNG.png",
             "description": "A V2Ray client for Android devices.",
             "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
@@ -218,7 +218,7 @@
         "apps": [
             {
                 "name": "Hiddify",
-                "price": "-1",
+                "price": "0",
                 "logo": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw",
                 "description": "A client that provides a platform for routing traffic securely.",
                 "faDescription": "Hiddify یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
@@ -227,7 +227,7 @@
               },
               {
                 "name": "InvisibleMan",
-                "price": "-1",
+                "price": "0",
                 "logo": "https://avatars.githubusercontent.com/u/46280804?v=4",
                 "description": "A client that provides a platform for routing traffic securely.",
                 "faDescription": "InvisibleMan یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
