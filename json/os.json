@@ -55,14 +55,12 @@
             ]
           },
           {
-            "name": "Streisand",
-            "price": "سرویس ایران",
+            "name": "Streisand (سرویس ایران)",
+            "price": "-1",
             "logo": "https://raw.githubusercontent.com/radin-mg/public-assets/refs/heads/main/icons/Streisand-ir.jpg",
             "faDescription": "🌐سرویس ایران Streisand جهت جداسازی ترافیک\n\nسایت‌های ایرانی و خارجی می‌باشد\n\nبه صورتی که برای ورود به سایت‌ها و اپلیکیشن‌های ایرانی نیازی به خاموش کردن vpn نداشته باشید\n🔴 استفاده از این سرویس اختیاری می‌باشد",
             "description": "🌐Iran Streisand service for separating traffic\n\nIt is for Iranian and foreign websites\n\nSo that you don’t need to turn off your VPN to access Iranian websites and applications\n🔴 Using this service is optional",
-            "downloadLink": "streisand://aW1wb3J0L3JvdXRlOi8vWW5Cc2FYTjBNRERWQVFJREJBVUdEaU1rSlZWeWRXeGxjMTFrYjIxaGFXNU5ZWFJqYUdWeVZHNWhiV1ZlWkc5dFlXbHVVM1J5WVhSbFozbFVkWFZwWktJSEZ0VUlDUW9MREEwT0R4SVZXMjkxZEdKdmRXNWtWR0ZuWFdSdmJXRnBiazFoZEdOb1pYSldaRzl0WVdsdVVtbHdWMjVsZEhkdmNtdFdaR2x5WldOMFZtaDVZbkpwWktJUUVWOFFFMmRsYjNOcGRHVTZZMkYwWldkdmNua3RhWEpmRUE5eVpXZGxlSEE2TGlwY1hDNXBjaVNpRXhSWVoyVnZhWEE2YVhKZFoyVnZhWEE2Y0hKcGRtRjBaVjhRUkZSRFVDd2dWVVJRTENCSVZGUlFMQ0JJVkZSUVV5d2dVMU5JTENCVFRWUlFMQ0JUVGsxUUxDQk9WRkFzSUVaVVVDd2dVRTlRTXl3Z1NVMUJVQ3dnVkdWc2JtVjAxQmNZQ2d3WkRob1ZXMjkxZEdKdmRXNWtWR0ZuWFdSdmJXRnBiazFoZEdOb1pYSlZZbXh2WTJ1b0d4d2RIaDhnSVNKZkVCaG5aVzl6YVhSbE9tTmhkR1ZuYjNKNUxXRmtjeTFoYkd4ZkVCUm5aVzl6YVhSbE9tTmhkR1ZuYjNKNUxXRmtjMThRRVdkbGIzTnBkR1U2ZVdGb2IyOHRZV1J6WHhBVFoyVnZjMmwwWlRwemNHOTBhV1o1TFdGa2MxOFFFbWRsYjNOcGRHVTZaMjl2WjJ4bExXRmtjMThRRVdkbGIzTnBkR1U2WVhCd2JHVXRZV1J6WHhBU1oyVnZjMmwwWlRwaGJXRjZiMjR0WVdSelh4QVJaMlZ2YzJsMFpUcGhaRzlpWlMxaFpITnVBRWtBVWdBdEFFUUFhUUJ5QUdVQVl3QjBBQ0RZUE4zdTJEemQ5MXhKVUVsbVRtOXVUV0YwWTJoZkVDUTNNamt5T1RCRlJDMUdSVFpCTFRReE9VVXRPVE15TmkxRE1rVkJOREl3UmpWQk0wTUFDQUFUQUJrQUp3QXNBRHNBUUFCREFFNEFXZ0JvQUc4QWNnQjZBSUVBaUFDTEFLRUFzd0MyQUw4QXpRRVVBUjBCS1FFM0FUMEJSZ0ZoQVhnQmpBR2lBYmNCeXdIZ0FmUUNFUUllQUFBQUFBQUFBZ0VBQUFBQUFBQUFKZ0FBQUFBQUFBQUFBQUFBQUFBQUFrVT0=",
-            "isAd": false,
-            "adBtnText": "افزودن به Streisand"
+            "configLink": "streisand://aW1wb3J0L3JvdXRlOi8vWW5Cc2FYTjBNRERWQVFJREJBVUdEaU1rSlZWeWRXeGxjMTFrYjIxaGFXNU5ZWFJqYUdWeVZHNWhiV1ZlWkc5dFlXbHVVM1J5WVhSbFozbFVkWFZwWktJSEZ0VUlDUW9MREEwT0R4SVZXMjkxZEdKdmRXNWtWR0ZuWFdSdmJXRnBiazFoZEdOb1pYSldaRzl0WVdsdVVtbHdWMjVsZEhkdmNtdFdaR2x5WldOMFZtaDVZbkpwWktJUUVWOFFFMmRsYjNOcGRHVTZZMkYwWldkdmNua3RhWEpmRUE5eVpXZGxlSEE2TGlwY1hDNXBjaVNpRXhSWVoyVnZhWEE2YVhKZFoyVnZhWEE2Y0hKcGRtRjBaVjhRUkZSRFVDd2dWVVJRTENCSVZGUlFMQ0JJVkZSUVV5d2dVMU5JTENCVFRWUlFMQ0JUVGsxUUxDQk9WRkFzSUVaVVVDd2dVRTlRTXl3Z1NVMUJVQ3dnVkdWc2JtVjAxQmNZQ2d3WkRob1ZXMjkxZEdKdmRXNWtWR0ZuWFdSdmJXRnBiazFoZEdOb1pYSlZZbXh2WTJ1b0d4d2RIaDhnSVNKZkVCaG5aVzl6YVhSbE9tTmhkR1ZuYjNKNUxXRmtjeTFoYkd4ZkVCUm5aVzl6YVhSbE9tTmhkR1ZuYjNKNUxXRmtjMThRRVdkbGIzTnBkR1U2ZVdGb2IyOHRZV1J6WHhBVFoyVnZjMmwwWlRwemNHOTBhV1o1TFdGa2MxOFFFbWRsYjNOcGRHVTZaMjl2WjJ4bExXRmtjMThRRVdkbGIzTnBkR1U2WVhCd2JHVXRZV1J6WHhBU1oyVnZjMmwwWlRwaGJXRjZiMjR0WVdSelh4QVJaMlZ2YzJsMFpUcGhaRzlpWlMxaFpITnVBRWtBVWdBdEFFUUFhUUJ5QUdVQVl3QjBBQ0RZUE4zdTJEemQ5MXhKVUVsbVRtOXVUV0YwWTJoZkVDUTNNamt5T1RCRlJDMUdSVFpCTFRReE9VVXRPVE15TmkxRE1rVkJOREl3UmpWQk0wTUFDQUFUQUJrQUp3QXNBRHNBUUFCREFFNEFXZ0JvQUc4QWNnQjZBSUVBaUFDTEFLRUFzd0MyQUw4QXpRRVVBUjBCS1FFM0FUMEJSZ0ZoQVhnQmpBR2lBYmNCeXdIZ0FmUUNFUUllQUFBQUFBQUFBZ0VBQUFBQUFBQUFKZ0FBQUFBQUFBQUFBQUFBQUFBQUFrVT0=",
           },
           {
             "name": "V2box",
@@ -92,7 +90,7 @@
           },
           {
             "name": "FoXray",
-            "price": "",
+            "price": "-1",
             "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/7d/a5/157da51a-6c29-b81d-bc9b-136e4266bc72/AppIcon-0-0-85-220-0-5-0-2x.png/246x0w.webp",
             "description": "A client that provides a platform for routing traffic securely.",
             "faDescription": "foxray یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
@@ -101,7 +99,7 @@
           },
           {
             "name": "Shadowrocket",
-            "price": "2.99",
+            "price": "-1",
             "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/shadowrocket.png",
             "description": "A rule-based proxy utility client for iOS.",
             "faDescription": "Shadowrocket یک ابزار پروکسی قانون‌محور برای iOS است.",
@@ -152,7 +150,7 @@
           },
           {
             "name": "V2rayNG",
-            "price": "",
+            "price": "-1",
             "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayNG.png",
             "description": "A V2Ray client for Android devices.",
             "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
@@ -178,7 +176,7 @@
           },
           {
             "name": "V2box",
-            "price": "",
+            "price": "-1",
             "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2box.png",
             "description": "A cross-platform V2Ray client.",
             "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
@@ -204,7 +202,7 @@
           },
           {
             "name": "v2RayTun",
-            "price": "",
+            "price": "-1",
             "logo": "https://play-lh.googleusercontent.com/Q3rfXwaGdGoHIMDVJWLoY0GrvGY1vkSuNhkrmrr8k4wfyrAXOWjhgQxYeQLxBHdW9LI=w240-h480-rw",
             "description": "A client that provides a platform for routing traffic securely.",
             "faDescription": "v2RayTun یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
@@ -238,7 +236,7 @@
               },
           {
             "name": "V2rayN",
-            "price": "",
+            "price": "-1",
             "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayN.png",
             "description": "A Windows V2Ray client with GUI support.",
             "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
@@ -246,7 +244,7 @@
           },
           {
             "name": "NetMod",
-            "price": "",
+            "price": "-1",
             "logo": "https://play-lh.googleusercontent.com/jupWpcfCJ1Ze0BbVdLO1_f4fr6NvAjcB9ReuVlDhJS3riUa9fnaoS8Oi9DFMNh8IFA=w240-h480-rw",
             "description": "A client that provides a platform for routing traffic securely.",
             "faDescription": "NetMod یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
@@ -261,7 +259,7 @@
         "apps": [
           {
             "name": "Nekoray",
-            "price": "0",
+            "price": "-1",
             "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/nekoray.jpeg",
             "description": "A cross-platform GUI client for V2Ray.",
             "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
@@ -269,7 +267,7 @@
           },
           {
             "name": "SingBox",
-            "price": "0",
+            "price": "-1",
             "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/singbox.png",
             "description": "A client that provides a platform for routing traffic securely.",
             "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
