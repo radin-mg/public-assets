@@ -145,7 +145,7 @@
             "logo": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw",
             "description": "A client that provides a platform for routing traffic securely.",
             "faDescription": "Hiddify یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
-            "configLink": "hiddify://import-remote-profile?url={url}#zehn",
+            "configLink": "hiddify://import/{url}",
             "downloadLink": "https://play.google.com/store/apps/details?id=app.hiddify.com&pcampaignid=web_share"
           },
           {
