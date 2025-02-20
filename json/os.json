@@ -105,6 +105,15 @@
             "faDescription": "Shadowrocket یک ابزار پروکسی قانون‌محور برای iOS است.",
             "configLink": "https://example.com/shadowrocket-config",
             "downloadLink": "https://apps.apple.com/us/app/shadowrocket/id932747118"
+          },
+          {
+            "name": "Npv",
+            "price": "0",
+            "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/8b/b8/d78bb803-d350-5535-05a3-15077d4c7cff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/434x0w.webp",
+            "description": "A client that provides a platform for routing traffic securely.",
+            "faDescription": "Npv یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
+            "configLink": "nvp://import/{url}",
+            "downloadLink": "https://apps.apple.com/us/app/npv-tunnel/id1629465476"
           }
         ]
       },
@@ -208,6 +217,15 @@
             "faDescription": "v2RayTun یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
             "configLink": "v2RayTun://import/{url}",
             "downloadLink": "https://play.google.com/store/apps/details?id=com.v2raytun.android&pcampaignid=web_share"
+          },
+          {
+            "name": "Npv",
+            "price": "0",
+            "logo": "https://play-lh.googleusercontent.com/s564-TVX-LhZ9qD-H6BG-VEPxXyEM_Z3x5hdJbQ_AbzKvqsngn8fCjezow49wg8jsRg=w480-h960-rw",
+            "description": "A client that provides a platform for routing traffic securely.",
+            "faDescription": "Npv یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
+            "configLink": "nvp://import/{url}",
+            "downloadLink": "https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv&pcampaignid=web_share"
           }
         ]
       },
