@@ -129,24 +129,7 @@
             "description": "A client that provides a platform for routing traffic securely.",
             "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
             "configLink": "sing-box://import-remote-profile?url={url}#zehn",
-            "downloadLink": "https://play.google.com/store/apps/details?id=io.nekohasekai.sfa&pcampaignid=web_share",
-            "tutorialSteps": [
-              {
-                "stepText": "Step 1: Download and install the sing box app from the Google Play Store.",
-                "faStepText": "مرحله ۱: برنامه singbox را از پلی استور دانلود و نصب کنید.",
-                "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2rayng/1.jpg"
-              },
-              {
-                "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
-                "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
-                "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2rayng/2.jpg"
-              },
-              {
-                "stepText": "Step 3: First, go to the configs page from the bottom menu. Then select the server you want. And finally, connect from the bottom of the page.",
-                "faStepText": "مرحله  ۳ : ابتدا سرور مورد نظر را انتخاب کرده. سپس از طریق دکمه پایین صفحه متصل شوید",
-                "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2rayng/3.jpg"
-              }
-            ]
+            "downloadLink": "https://play.google.com/store/apps/details?id=io.nekohasekai.sfa&pcampaignid=web_share"
           },
           {
             "name": "Hiddify",
@@ -163,7 +146,7 @@
             "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayNG.png",
             "description": "A V2Ray client for Android devices.",
             "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
-            "configLink": "sing-box://import-remote-profile?url={url}#Zehn",
+            "configLink": "v2rayng://install-config?url={url}",
             "downloadLink": "https://play.google.com/store/apps/details?id=com.v2ray.ang",
             "tutorialSteps": [
               {
